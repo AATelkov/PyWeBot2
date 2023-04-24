@@ -1,0 +1,5 @@
+sqlalchemy
+discord.py
+requests
+PyNaCl
+bs4
