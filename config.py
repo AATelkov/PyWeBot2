@@ -1,4 +1,4 @@
-token = "MTA5ODU1NzgwNjM4NDI1NTAwNg.GCXifC.RPG3XgI1ormb7HvM80Kelmc5kVk6UKx9r9WLZk"
+token = "MTA5ODU1NzgwNjM4NDI1NTAwNg.GB3syU.QFwd6NPova4r0fkv96QImGcUKBv8gOKHUrCWn8"
 
 with open("data\\video_cards.txt", mode="r", encoding="UTF-8") as f:
     video_cards = [i.replace("\n", "") for i in f.readlines()]
